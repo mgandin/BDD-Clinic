@@ -80,6 +80,10 @@ public class FunkyExotic {
     public int getFeeAmount() {
         return feeAmount;
     }
+
+    public Currency getCurrencyNego() {
+        return currencyNego;
+    }
 }
 
 

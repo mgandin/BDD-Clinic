@@ -1,4 +1,4 @@
-Feature: Negociation screen
+Feature: Negociation
 
     Scenario: Change the negotiation price from positive to negative => soulte cashflow appears and premium cashflow is modified
         Given an FUNKY_EXOTIC
